@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class TPInterview {
+public class TPSInterview {
     public static void main(String[] args) {
         System.out.println(reverseWords("Ramesh is playing cricket")); // Question 1
         fileReaderQuestion("C:/Name_address.txt"); // Question 2
